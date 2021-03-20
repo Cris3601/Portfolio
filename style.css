@@ -1,6 +1,4 @@
-body{
-    color: cornflowerblue;
-}
+
 h1{
     color:black;
     text-align: center;
@@ -11,3 +9,9 @@ h1{
     text-align: center;
     word-wrap: break-word;
 }
+
+.container1{
+    background-color: aqua;
+    text-align: center;
+    word-wrap: break-word;
+}   

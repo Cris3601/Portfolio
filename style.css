@@ -1,17 +1,7 @@
-
-h1{
-    color:black;
-    text-align: center;
-}
-
-.container{
-    background-color:grey;
-    text-align: center;
-    word-wrap: break-word;
-}
-
 .flexbox{
-    background-color: aqua;
+    background-color:rgb(117, 117, 116);
     text-align: center;
     word-wrap: break-word;
+    grid-row: inherit;
+
 }   

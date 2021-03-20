@@ -1,0 +1,18 @@
+
+.felxbox-container{
+    background-color: cornflowerblue;
+    text-align: center;
+    word-wrap: break-word;
+    display: flex;
+}
+
+.felxbox-containa{
+    background-color: cornflowerblue;
+    text-align: center;
+    word-wrap: break-word;
+    display: flex;
+}
+
+h1{
+    text-align: center;
+}

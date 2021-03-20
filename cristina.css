@@ -1,15 +1,13 @@
 
 .felxbox-container{
+   
     background-color: cornflowerblue;
-    text-align: center;
-    word-wrap: break-word;
     display: flex;
 }
 
-.felxbox-containa{
+.felxbox-container2{
+    
     background-color: cornflowerblue;
-    text-align: center;
-    word-wrap: break-word;
     display: flex;
 }
 

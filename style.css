@@ -1,7 +1,17 @@
 .flexbox{
     background-color:rgb(184, 184, 184);
     text-align: center;
-    word-wrap: break-word;
-    grid-row: inherit;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 2px;
+    width: auto;
+    display: flex;
+    }
 
-}   
+.flexbox1{
+    background-color:rgb(184, 184, 184);
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 2px;
+    width: auto;
+    display: flex;
+}

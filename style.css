@@ -1,10 +1,13 @@
 body{
-    color: yellow;
+    color: cornflowerblue;
 }
 h1{
-    color: teal;
+    color:black;
+    text-align: center;
 }
 
 .container{
-    background-color:violet;
+    background-color:grey;
+    text-align: center;
+    word-wrap: break-word;
 }

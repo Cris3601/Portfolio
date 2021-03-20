@@ -1,14 +1,16 @@
 
 .felxbox-container{
-   
+   flex: 1;
     background-color: cornflowerblue;
     display: flex;
+    flex-direction: row;
 }
 
 .felxbox-container2{
-    
+    flex: 1;
     background-color: cornflowerblue;
     display: flex;
+    flex-direction: row;
 }
 
 h1{

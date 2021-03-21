@@ -1,0 +1,25 @@
+/*--nav-anfang--*/
+/*Einzelfelder der Navigationsleiste*/
+nav ul li {
+    flex: 1;
+    border: solid black 2px;
+    padding: 5px;
+    background-color: gainsboro;
+    list-style: none;
+    text-align: center;
+}
+
+/*Display Properties der nav Elemente*/
+@media (min-width:1000px) {
+    nav ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+/*Farbwechsel bei mouse hover und klick*/
+nav ul li:hover {
+    background-color: aliceblue;
+    color: red
+}
+/*--nav-ende--*/

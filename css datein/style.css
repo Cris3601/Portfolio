@@ -1,0 +1,20 @@
+.flexbox{
+    background-color:rgb(184, 184, 184);
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+    }
+
+.flexbox1{
+    background-color:rgb(184, 184, 184);
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+}
+h1{
+    text-align: center;
+}
